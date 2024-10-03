@@ -135,7 +135,7 @@ public class ConversorDeMonedaControlador {
 
         //Registro de conversion y marca de tiempo
         String marcaTiempo = LocalDateTime.now().format(DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss"));
-        historialConversiones.add(marcaTiempo + " - " + resultado);
+        historialConversiones.add(marcaTiempo + " Tasa de cambio: " + tasaDeCambio + " - " + resultado);
     }
 
     private void mostrarHistorial() {
