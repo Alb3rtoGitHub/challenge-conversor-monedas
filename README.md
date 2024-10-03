@@ -77,7 +77,7 @@ Este proyecto usa la API de ExchangeRate-API.
 ### Pasos:
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/desafio-ONE-java-challenge-conversor-monedas.git
+   git clone https://github.com/tu_usuario/challenge-conversor-monedas.git
    ```
 2. Importar el proyecto en tu IDE favorito.
 
@@ -138,7 +138,7 @@ Siéntete libre de utilizarlo, modificarlo y distribuirlo como desees.
 ¡Gracias por usar el Conversor de Monedas, las contribuciones son bienvenidas! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o enviarme un mensaje.
 
 Usa el código con precaución. 🚀
-## 👷Autor: Alberto Vallecillo
+## 👨‍💻Autor: Alberto Vallecillo
 <a href="https://linkedin.com/in/alberto-vallecillo" target="_blank">
 <img src="./src/vista/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
 </a>
