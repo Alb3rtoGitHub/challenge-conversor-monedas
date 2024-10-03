@@ -17,7 +17,7 @@ Conversor de Monedas, solicitud a una API de tasas de cambio, manipular datos JS
 ### 1. 🖥️ Interfaz de Consola
 El programa cuenta con una interfaz de consola fácil de usar, donde podrás seleccionar las monedas que deseas convertir y visualizar los resultados de forma clara.
 
-<img src="./challenge-conversor-monedas/src/vista/MenuOpcion2.png" align="center" height="450" width="650" />
+<img src="./src/vista/MenuOpcion2.png" align="center" height="450" width="650" />
 
 ### 2. 🌎 Soporte para Múltiples Monedas
 Puedes convertir entre las siguientes monedas principales:
@@ -49,7 +49,7 @@ El programa guarda un historial de las conversiones realizadas, mostrándote:
 
 Esto te permite llevar un registro de tus actividades de conversión.
 
-<img src="./challenge-conversor-monedas/src/vista/Historial.png" align="center" height="475" width="750" />
+<img src="./src/vista/Historial.png" align="center" height="475" width="750" />
 
 ### 4. 🕒 Registros con Marca de Tiempo
 Cada conversión realizada es registrada con la **fecha y hora exacta** utilizando la biblioteca `java.time`. Esto te permite ver cuándo realizaste cada conversión, proporcionando más transparencia y control.
@@ -113,7 +113,7 @@ Códigos ISO 4217 de monedas más comunes:
 - JPY - Yen japonés
 - etc...
 
-<img src="./challenge-conversor-monedas/src/vista/OtrasOpciones.png" align="center" height="575" width="650" />
+<img src="./src/vista/OtrasOpciones.png" align="center" height="575" width="650" />
 
 ## 🛠️ Tecnologías Utilizadas
 - Java 17.0.12: Lenguaje principal. MVC: Modelo-Vista-Controlador
@@ -127,7 +127,7 @@ Códigos ISO 4217 de monedas más comunes:
 ## 🎁 Aplicacion de Conversor de Monedas con interfaz gráfica en JavaFX
 Para quienes leyeron hasta el final de este README les dejo el archivo: **challenge-conversor-monedas-javafx.jar**, listo para que lo bajen en su disco y ejecuten la aplicación de escritorio.
 
-<img src="./challenge-conversor-monedas/src/vista/conversor-monedas-javafx.png" align="center" height="560" width="500" />
+<img src="./src/vista/conversor-monedas-javafx.png" align="center" height="560" width="500" />
 
 Les dejo además el link al repositorio en GitHub donde encontraran ese proyecto desarrollado en Java con interfaz en JavaFX:
 [challenge-conversor-monedas-javafx](https://github.com/Alb3rtoGitHub/challenge-conversor-monedas-javafx.git)
@@ -140,8 +140,8 @@ Siéntete libre de utilizarlo, modificarlo y distribuirlo como desees.
 Usa el código con precaución. 🚀
 ## 👷Autor: Alberto Vallecillo
 <a href="https://linkedin.com/in/alberto-vallecillo" target="_blank">
-<img src="./challenge-conversor-monedas/src/vista/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
+<img src="./src/vista/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Alb3rtoGitHub" target="_blank">
-<img src="./challenge-conversor-monedas/src/vista/github.svg" alt=github style="margin-bottom: 5px;" />
+<img src="./src/vista/github.svg" alt=github style="margin-bottom: 5px;" />
 </a>
