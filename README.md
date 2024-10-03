@@ -5,7 +5,7 @@
 ## 💡 Desafío Alura-ONE Java Challenge Conversor de Monedas 💡
 Conversor de Monedas, solicitud a una API de tasas de cambio, manipular datos JSON, filtrar y mostrar las monedas de interés
 
-<img src="./vista/MostrarMenu.png" align="center" height="450" width="650" />
+<img src="./src/vista/MostrarMenu.png" align="center" height="450" width="650" />
 
 ## 🚀 Funcionalidades
 - Conversión entre múltiples monedas en tiempo real.
