@@ -37,7 +37,7 @@ Puedes convertir entre las siguientes monedas principales:
 - 🇷🇺 **RUB** - Rublo ruso
 - 🇿🇦 **ZAR** - Rand sudafricano
 
-Además, puedes acceder a **opciones personalizadas** donde eliges las monedas origen y destino, ingresando directamente sus códigos ISO 4217. ¡La flexibilidad que necesitas!
+Además, puedes acceder a **opciones personalizadas** donde eliges las monedas origen y destino, ingresando directamente sus códigos ISO 4217.
 
 ### 3. 📜 Historial de Conversiones
 El programa guarda un historial de las conversiones realizadas, mostrándote:
@@ -73,6 +73,7 @@ Este proyecto usa la API de ExchangeRate-API.
 - Java 17 o superior
 - Conexión a Internet para las consultas a la API
 - IDE o editor de texto como IntelliJ IDEA, Eclipse o VSCode
+- Tu propia clave o API_KEY
 
 ### Pasos:
 1. **Clonar el repositorio:**
