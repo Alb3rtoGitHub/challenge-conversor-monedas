@@ -2,6 +2,10 @@
 
 ¡Bienvenido al Conversor de Monedas! Este proyecto es una aplicación en Java que te permite convertir entre varias monedas de forma sencilla y eficiente, utilizando la API de ExchangeRate-API para obtener las tasas de cambio más recientes.
 
+<p align="center">
+<img src="./src/vista/Badge-Conversor.png" align="center" height="500" width="500" />
+</p>
+
 ## 💡 Desafío Alura-ONE Java Challenge Conversor de Monedas 💡
 Conversor de Monedas, solicitud a una API de tasas de cambio, manipular datos JSON, filtrar y mostrar las monedas de interés
 
